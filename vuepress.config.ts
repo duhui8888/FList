@@ -87,10 +87,10 @@ export default defineUserConfig({
       }),
     },
     {
-      mountPath: "/ProgrammingVTuberLogos",
+      mountPath: "/传奇补丁",
       analysis: githubReposAnalysis({
-        user: "Aikoyori",
-        repository: "ProgrammingVTuberLogos",
+        user: "duhui8888",
+        repository: "chuanqi",
       }),
       downProxy: cloudflarePagesDownProxy()
     },
